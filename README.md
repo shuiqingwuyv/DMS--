@@ -1,4 +1,6 @@
 # DMS修改登录页面欢迎信息和标题(我的系统是7.2 其他版本自测)
+# 效果
+![image](https://github.com/shuiqingwuyv/DMS--/blob/main/3.png)
 ## 1.计划任务
 设置-计划任务-计划的任务-用户自定义的脚本
 名字随便取账户root
